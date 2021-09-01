@@ -16,7 +16,7 @@ The "agnostos-wf" snakemake workflow was developed using/runs in the de.NBI Clou
 We used a cluster setup with 10 nodes of 28 cores and 252 G of memory each.
 The cluster was build using BiBiGrid and it is using SLURM as Grid Batch Scheduler.
 
-#### Before running AGNOSTOS check the [usage file](AGNOSTOS_usage) to set it up on your computer!
+#### Before running AGNOSTOS check the [usage file](AGNOSTOS_usage.md) to set it up on your computer!
 
 ### Run the workflow:
 
